@@ -1,0 +1,234 @@
+sample_id,case_id,file_id,file_name,tissue_type,tumor_descriptor,specimen_type,label,status
+TCGA-A7-A0CE-11A,TCGA-A7-A0CE,23bf74db-bb4e-44c5-8473-e651b818e460,308e15c9-16b0-4f24-b9dc-e9dc91038579.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-A7-A0CH-11A,TCGA-A7-A0CH,b9bdb9d3-4d2b-4a53-9804-d0511174e553,49e456c9-c47b-4663-bf6f-9f8f4e4e71a5.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-A7-A0D9-11A,TCGA-A7-A0D9,baec6a46-7c48-41ed-a8a9-eef52d32cba3,eb17c782-c3a1-458d-8e2d-cadb58c7655a.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-A7-A0DB-11A,TCGA-A7-A0DB,d7a48283-c113-4745-be6b-553966e6b457,151af32a-7367-4e35-a575-f6da31aa256a.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-A7-A0DC-11A,TCGA-A7-A0DC,9e056a2a-a643-478a-b96c-85d5221f487a,c6a90de3-979b-46b0-9f84-2875c1e38742.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-A7-A13E-11A,TCGA-A7-A13E,50260fba-c435-480a-9bb8-f2839ba499a4,1d390e7f-bbbb-45b5-9466-d199f19106b2.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-A7-A13F-11A,TCGA-A7-A13F,4c2bb8e3-2527-466b-a3bb-0f36c3b2a3e7,2d1e176a-adc9-4d8a-92cf-5cba5ab8e486.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-A7-A13G-11A,TCGA-A7-A13G,90617797-d2c7-4c49-bffe-b2bea96a7cf1,cf7f5e39-f761-424f-9987-21b328afa0ae.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-AC-A23H-11A,TCGA-AC-A23H,f45af277-1f94-4cdd-97d4-8ccdbd7ff18e,a41a8b37-2a35-487f-8a4d-ffa0f31b7839.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-AC-A2FB-11A,TCGA-AC-A2FB,e914127b-20a0-4ef1-a614-06b697da648c,526d20dd-9df1-44c4-ab04-82109fafd3a3.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-AC-A2FF-11A,TCGA-AC-A2FF,ccaa907b-71d5-467e-ace4-f2ea16109202,24c548e1-6368-464e-945c-933ee2f914ad.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-AC-A2FM-11B,TCGA-AC-A2FM,52151eca-7819-496e-bf31-4875b68d429d,34478743-530d-4d71-a124-90ad54ded5c1.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0AU-11A,TCGA-BH-A0AU,f24d6e88-634e-4d86-b993-76a40f1190d0,f201e2e9-dfb0-4a53-bd68-56f4e87604d3.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0AY-11A,TCGA-BH-A0AY,1320db11-22a5-417f-8ec7-65c0bf4681a2,9926a02f-9fa7-42c9-bfa1-e6ec45018fed.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0AZ-11A,TCGA-BH-A0AZ,4cce67eb-0cb7-4c8f-a81e-0e521c2b0168,05f4836a-8db8-4dbc-a996-090887bf8a64.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0B3-11B,TCGA-BH-A0B3,87d5686a-5d57-4ce2-b06a-dee5c2926ebf,d920c232-82ae-48f9-98d1-b94bf4a45d8d.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0B5-11A,TCGA-BH-A0B5,b01d7dfd-b577-48b8-8bf2-3c74bb617601,6732c6de-0725-4a08-a1d7-211338a4363c.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0B7-11A,TCGA-BH-A0B7,3071e512-94ea-4820-9573-668235188e34,da549530-7ba5-4302-acd2-40a766860216.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0B8-11A,TCGA-BH-A0B8,9dc47384-64df-48c7-9d41-921d6021ef9c,8e6bbb91-f5de-4615-8a29-37c8f401dbe9.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0BA-11A,TCGA-BH-A0BA,165fe176-2dea-489f-92d6-34b0c6848312,16e1fcb7-863d-40c1-b2d6-365d519148f6.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0BC-11A,TCGA-BH-A0BC,f11c5295-697a-46f7-91fe-b760dc9f1029,e619b307-4391-48ab-9282-7f22b14f5afe.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0BJ-11A,TCGA-BH-A0BJ,a9f49b86-3801-420d-915c-0e09a15c6e59,1b87d18e-4b47-47d0-a6de-1bb9eedb04c9.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0BM-11A,TCGA-BH-A0BM,046fe29e-7c99-4093-8565-f2f205a00796,61f811cf-9dc1-4f48-ad62-c3ebfd1f0847.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0BQ-11A,TCGA-BH-A0BQ,68881256-49b8-4a19-87a9-afac4f1841d2,7b4b9d66-e494-48e8-949f-7cdb42e490f9.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0BS-11A,TCGA-BH-A0BS,736fca14-66fb-481a-985e-7253f75243a8,217558e4-a5f5-4c72-91b7-b430a17f457a.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0BT-11A,TCGA-BH-A0BT,da84f488-af86-4472-bf87-063a9137e1db,8aed99b7-de49-4e7e-8fb3-17d897c03e00.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0BV-11A,TCGA-BH-A0BV,3448aa6c-0de2-4d47-9bac-19507aee7492,4da20b00-8ed6-41ed-88d9-9969d15761c7.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0BW-11A,TCGA-BH-A0BW,f599be9a-0cac-4441-905c-5a6c87e7bc8c,741fb6d6-364f-47a0-a262-f18235c48fc4.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0BZ-11A,TCGA-BH-A0BZ,573241d2-e298-426a-84a0-2c3889bae923,b1e03953-263f-4331-b386-487cdc897425.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0C0-11A,TCGA-BH-A0C0,15f0e499-8d53-4e97-a392-334875d25cf4,467bd108-f391-4dd1-92de-43879822400d.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0C3-11A,TCGA-BH-A0C3,7000e222-556a-4548-9542-9337ba70f79c,5d282b59-c7dc-4f08-ad05-b5eae4bd8e94.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DD-11A,TCGA-BH-A0DD,c9230a1c-9844-43ef-a2c3-95ea6061000b,2a612640-5c9e-42b2-ac52-02a44b46d429.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DG-11A,TCGA-BH-A0DG,1479c033-ebe7-423d-8460-bbe84fd5ffb6,967fde0b-9c38-4c69-97f2-9640ebe1dc9a.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DH-11A,TCGA-BH-A0DH,90116c25-271c-4be2-b20f-295448e6e421,8b9d534c-0d48-4d88-bbb2-a866d7e73a55.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DK-11A,TCGA-BH-A0DK,2bf56d2d-8c5e-4579-847b-03fd0ba46143,fb3713b9-fad5-4d66-b419-8f53530b14cd.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DL-11A,TCGA-BH-A0DL,b9a1e2f1-e5c4-4855-9720-4c168474dd26,5028f9f0-d9ff-4439-9084-fee423ad4ca7.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DO-11A,TCGA-BH-A0DO,4df2233b-3bbc-4d20-9abc-2a09b3f37383,eb0f8bc7-5f47-4174-8e85-678bd011bc3c.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DP-11A,TCGA-BH-A0DP,934935ae-037b-451d-a696-0679b07bd401,90388468-c622-4114-971e-ab178e487493.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DQ-11A,TCGA-BH-A0DQ,cf0ca663-a857-4aea-ab72-b0d4373b2456,4abd29b3-0a83-41d3-a741-bcc5b6d2f98a.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DT-11A,TCGA-BH-A0DT,62a4b965-7aaa-4bd4-b469-57a713b2e9fd,064d1578-9fb7-439c-9644-d4cb6389ec9d.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DV-11A,TCGA-BH-A0DV,739fe30a-4fae-4f4d-a360-3ab300a4848a,52064107-3c37-45b1-aa6b-a14a98352f9d.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0DZ-11A,TCGA-BH-A0DZ,b70b68a1-28c4-4ed3-a04c-b622e583f10b,d6cc88bd-b0ba-4606-955d-2dc32e6d2d97.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0E0-11A,TCGA-BH-A0E0,21f16535-a7bb-4bbd-affe-bff937467374,930d7c02-c230-4d19-9247-74fb0e02d524.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0E1-11A,TCGA-BH-A0E1,dafb2454-1ea7-4cb6-8b3b-2b5b6f19aa89,75525261-bd54-4e19-9f86-ab7b9cea3388.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0H5-11A,TCGA-BH-A0H5,ab3475d0-e057-4512-8c01-a5383359a1ad,d81b8303-62b4-46ba-9370-8c6a92cfa4fb.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0H7-11A,TCGA-BH-A0H7,ea1fadc2-1cdc-4658-9619-eeb26ae09da8,9ee600fe-20c7-4b1f-b08f-15d3d38a5c52.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0H9-11A,TCGA-BH-A0H9,81138059-5789-4ea7-84e9-1490aa53a283,35ded490-54db-46b8-bc62-a5a9314cf0b2.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0HA-11A,TCGA-BH-A0HA,3aad7b0b-9f82-41d0-b3e5-5614afcac6a8,7aac48b4-dbb0-49a5-a3e0-04916a9270b8.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A0HK-11A,TCGA-BH-A0HK,75182885-7501-49b1-bb0d-8a88da1080a3,0965a7ff-1a9f-4cc6-a822-970390b2de58.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18J-11A,TCGA-BH-A18J,456bc30b-59f8-4427-b798-5b113ca635a0,653ddf67-d2ac-4fc7-8e95-b4a078e27806.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18K-11A,TCGA-BH-A18K,a37587aa-2e1f-42f5-a691-c4a41ae79ea9,922ac2aa-8619-47ef-99d8-160e19861f57.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18L-11A,TCGA-BH-A18L,acfa0ea5-3345-4734-9917-d3acc10d1a15,9d515fd5-009a-4c32-95e7-042909d70b9f.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18M-11A,TCGA-BH-A18M,ddb8fb65-cf53-41a0-8acd-a538a8754fa5,69ef0b4d-aa36-46a4-9c7f-96711a51e461.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18N-11A,TCGA-BH-A18N,542856ab-164d-4edd-833a-925da96d1eeb,9c0696ab-2bd6-4372-8b10-8222816de48e.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18P-11A,TCGA-BH-A18P,fd94a0ed-37d8-49a5-af96-e2160a9e6096,f8cfabf6-dc25-4141-be6c-817dd439a74b.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18Q-11A,TCGA-BH-A18Q,336f0e3e-878e-4ee8-b2aa-cc536f3432f3,0a950719-ca7a-4dbf-8755-262cabf3d4b7.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18R-11A,TCGA-BH-A18R,bd239a8e-56e2-45ca-bc44-bff98b72c1d6,d28a7c02-2f33-46e2-bff9-5ed518ea6fb6.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18S-11A,TCGA-BH-A18S,0e89f9f0-419f-46e7-981d-781a1302e4be,98f19a00-fd01-46b1-a75d-f66522ebde2d.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18U-11A,TCGA-BH-A18U,b88daf3f-645d-4d11-a2be-2295e186747f,98b5b7d9-7f5d-48e0-ad50-7b22f379fef6.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A18V-11A,TCGA-BH-A18V,040d00da-2bc9-49d4-bf6c-b4515b6a2bbf,d4f91697-1c39-4398-bf2f-85217a22ddff.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1EN-11A,TCGA-BH-A1EN,2d148c3a-7bbd-414f-872e-dd916d0e3ccf,bd1f12ab-ee49-4e7e-aad4-14924c49d306.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1EO-11A,TCGA-BH-A1EO,cbfb8ffe-ae83-4a16-aaa6-f21ea893cb8d,b1f7e629-7a99-4b1f-85e4-bafb87724aea.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1ET-11B,TCGA-BH-A1ET,38854c85-fc09-4a51-93a7-257762517583,c058aa43-349b-4f45-8217-6b193bf7c610.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1EU-11A,TCGA-BH-A1EU,8a84b9a5-d453-416b-b481-f15402c2eb54,8c0d18d4-98f5-4a66-b62e-7cede666c49f.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1EV-11A,TCGA-BH-A1EV,8ebe0bf6-11fa-418d-918c-5c73f0e7e9ac,466a4121-0583-47ee-9d54-1f1c2d47e381.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1EW-11B,TCGA-BH-A1EW,d8ac1c2a-1820-4174-99e3-524b334df490,078f6959-adcf-44a5-91d2-2581ba3c8e62.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1F0-11B,TCGA-BH-A1F0,ad8be67e-a885-4d33-8776-fa0a5f9863d1,570b216f-f99d-4be8-b179-48c8d30c6c06.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1F2-11A,TCGA-BH-A1F2,0972f396-9045-4faa-98f8-e8c3e02f9901,37157138-01ef-49a5-bc74-c45feaf411e2.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1F6-11B,TCGA-BH-A1F6,d757b1cc-31a6-495a-ae82-c63b031ece49,898f9214-8dab-4b92-9233-70c06c60078c.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1F8-11B,TCGA-BH-A1F8,0d11c50a-8648-48ea-a107-e138a1d3e086,bf3ea4a0-bcd6-4e9d-acbb-3416f6ce53b7.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FB-11A,TCGA-BH-A1FB,e4f49b9c-faed-4f15-a79c-79664e2c03b6,61a614bb-2249-4611-8aac-1a8e53d4467b.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FC-11A,TCGA-BH-A1FC,248ac510-a5af-4608-9cdc-5c8673633b82,d23ff3bc-5524-4dca-b0f4-a1561a30566c.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FD-11B,TCGA-BH-A1FD,df416c2a-523d-4409-98ac-b0900584a065,bcbe88a9-729e-4af8-9bb8-1ac65aa4bd23.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FE-11B,TCGA-BH-A1FE,4f54add3-c33d-4bc9-9e1f-c75f52d15f1e,2e4316d2-5fe5-4ee1-9b22-73f4c42b6202.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FG-11B,TCGA-BH-A1FG,c32d5451-815d-4451-97b1-e61801574c22,dcd8e56d-d2a0-403b-89c9-351c7aae47ad.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FH-11B,TCGA-BH-A1FH,9985bb0b-d1cc-455b-80d9-f8007669cd5c,b3435d9e-fb7f-4748-9a0b-2b532875c87e.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FJ-11B,TCGA-BH-A1FJ,e84b9f1a-0def-425b-86c1-c143b27509b5,4497500a-5721-4d7a-8ed9-1ba7b42fb6ab.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FM-11B,TCGA-BH-A1FM,1ce0d66a-176d-4d8a-b1c4-64d847e299be,ed108cc1-3b34-4ee5-b029-48b80ccaae19.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FN-11A,TCGA-BH-A1FN,d5664879-53a0-490a-a3cb-47c551b6bf34,cf5fba05-4996-4f62-adcf-a2ee1f4c65d3.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FR-11B,TCGA-BH-A1FR,a930c017-565f-49ad-893a-37cc394c269d,cc502455-f72f-491d-9486-a344e169dcfc.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A1FU-11A,TCGA-BH-A1FU,eddb2dc6-2b72-43a8-a7fc-3dd09dde68af,316d8a79-9084-4355-9de7-e29503bf0864.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A203-11A,TCGA-BH-A203,699e47b8-5396-43eb-927d-8d05b0e79644,1dd6852b-2456-4576-9b22-f7604277c955.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A204-11A,TCGA-BH-A204,86b7ddd7-1c59-4937-99ec-b30fa9b4f0bd,a622a28b-a3ac-495b-b696-2a11e0e0e2ad.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A208-11A,TCGA-BH-A208,8849e5bf-ff35-4cbf-972c-01fb92201a73,feb7140e-d822-4462-8dfa-7a63805ac740.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-BH-A209-11A,TCGA-BH-A209,c95841fa-ea90-4a12-99aa-5c342af9e0e8,4bd484be-2364-4a9c-841e-b60bee25af79.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A153-11A,TCGA-E2-A153,a04fdd52-6d4c-4dc6-b63d-fa67ecfe4744,d7d4b68a-ab93-4b9c-9cf6-88f15299e306.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A158-11A,TCGA-E2-A158,c440cfb1-33ec-4be4-a4a4-4aea9a66d021,484b85c7-1102-4d34-89b8-8ce458b55d2b.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A15I-11A,TCGA-E2-A15I,2a898b49-54b6-4cb6-8af4-fb69d0818562,69303772-638d-4171-84d2-cfa535256976.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A15K-11A,TCGA-E2-A15K,76cff555-d8a3-46d1-ac93-12d856adb445,dbd18198-74a5-410d-bf38-08a0ca2fb207.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A15M-11A,TCGA-E2-A15M,ccb87d7a-2729-4017-bc17-10e5a67bd5cc,0557d817-20e0-496f-840a-7a15d6da1694.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A1BC-11A,TCGA-E2-A1BC,c6a4afd8-8044-475f-b4fd-a1b4cb922976,58bcabc9-6f6b-43c0-bf40-fa9396c6c9d7.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A1IG-11A,TCGA-E2-A1IG,f63a40ad-26af-48d6-bb36-91fd91d32e6b,90a1bbd2-6b26-4d1c-b255-df5499d1da6c.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A1L7-11A,TCGA-E2-A1L7,d796de5e-4512-4b3a-93d4-2a006e79084f,da752364-731c-4e77-8d6e-9c91a5b7f68f.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A1LB-11A,TCGA-E2-A1LB,be386ce9-a12f-4c16-80ba-a5d47d5b374e,13daffbb-aa53-44f9-a6ed-5fd43ed37471.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A1LH-11A,TCGA-E2-A1LH,18b0bd2d-505f-4ecb-9bea-b52e6a74cebd,678aa892-0631-47cc-b19e-cdcef42cecb3.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E2-A1LS-11A,TCGA-E2-A1LS,9e5ecae5-faf0-41a2-a795-d1b4db79486a,a4cf670f-1627-42cf-9917-fc2c89708353.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1N4-11A,TCGA-E9-A1N4,2d75b6a1-0f93-4c6a-9554-73a214969c6b,1cbbe329-a471-425e-b14d-e9043fce6926.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1N5-11A,TCGA-E9-A1N5,247f1d7d-fc33-4f35-aca7-60aa1c9631ad,ba42632e-b94c-4620-adcf-a0585652860f.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1N6-11A,TCGA-E9-A1N6,96e54b36-0b71-4ad0-9b21-72668708fc62,b7ef29ba-06f6-4445-8c70-52388892388c.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1N9-11A,TCGA-E9-A1N9,63adf5e2-d5cb-4937-a0ee-f2914e130b25,86931155-2879-41e4-8fa2-1f24826d8768.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1NA-11A,TCGA-E9-A1NA,65582670-1c71-4606-91b5-a886144fdfa6,5c4f28b0-b83c-4b52-8545-2f26c9d0734f.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1ND-11A,TCGA-E9-A1ND,8b000fae-e6de-4038-8486-45316cae622d,7be7033e-db49-45cd-8ea5-827266707b1e.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1NF-11A,TCGA-E9-A1NF,50721c97-1a23-405b-b7b3-2955e4c62e5a,00063026-2a67-41de-b105-f80dca277978.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1NG-11A,TCGA-E9-A1NG,207ea988-6795-460c-bfeb-382d8c758f31,2c555b4c-f219-40f9-95a4-bf96122b9c1c.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1R7-11A,TCGA-E9-A1R7,808f4ac6-9bc9-402f-be36-b7ec8658c150,769dff27-1f9c-422d-8ba0-703136a9d5ca.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1RB-11A,TCGA-E9-A1RB,447e3faf-a5f2-4739-b2aa-c907f33b634a,4f3fa7c5-fe72-4b99-8a4f-9f487efc1ef1.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1RC-11A,TCGA-E9-A1RC,392edd04-fdec-4eb7-ba2e-cef02519c219,3daeb643-20a6-4273-b1fc-eed2a3bb5a18.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1RD-11A,TCGA-E9-A1RD,4376b78e-bfec-4142-8407-b967883d7b6b,eba8b055-6de2-48e7-bed8-40de705ad1d1.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1RF-11A,TCGA-E9-A1RF,b9eb33d4-1017-42cf-b72c-f917de5425e7,8fe92722-33b4-421a-9229-7d82e8af0ce2.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1RH-11A,TCGA-E9-A1RH,958813f4-8036-42f7-856d-7a69c4175adc,269c35f0-a4f7-4e30-a69f-f1f3b7b5dace.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-E9-A1RI-11A,TCGA-E9-A1RI,2a18db7b-b054-4210-b8cb-a647c26f90c1,5dfb4024-ca51-4296-9fc7-0037b7b1e27b.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-GI-A2C8-11A,TCGA-GI-A2C8,84cff855-d17a-4c09-b432-53893ae69c1e,03d891b3-8faf-4384-94ce-2015f1ca5df0.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-GI-A2C9-11A,TCGA-GI-A2C9,5e789924-9d98-4765-a348-90a27349d906,d83bb114-c175-4fd5-aac0-5dc04b9218b0.rna_seq.augmented_star_gene_counts.tsv,Normal,Not Applicable,Solid Tissue,0,usable
+TCGA-A1-A0SF-01A,TCGA-A1-A0SF,4ef93d93-a6c6-4137-944c-6092e4ff7ae9,8c147a31-a1be-4464-9606-12b14fbdf8d3.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A2-A0EO-01A,TCGA-A2-A0EO,31e1dbf5-8c97-4e4d-a488-d6737ab304c2,6e24acde-7dd0-46b9-b3c5-b0b617912910.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A2-A0EP-01A,TCGA-A2-A0EP,28aa7b6c-d5ec-4aa1-9c39-70d571efe6fb,8408e231-e0d2-4650-b269-9a7f7ff4a597.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A2-A0YH-01A,TCGA-A2-A0YH,f6392b6f-24d9-4768-8269-c7c647f8ff8c,0e062eef-29b8-4622-afd9-0d3f0d1c37d6.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A2-A25D-01A,TCGA-A2-A25D,e6cbdcab-7fd1-43a6-be43-68b6a0fb4fe9,e548b6da-7025-48ef-bac6-50dcf66abe71.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A2-A4RX-01A,TCGA-A2-A4RX,4382bb60-997e-4a1a-9cdb-3d8738806379,790ea932-848f-40cf-ab94-673eea700aa2.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A2-A4S0-01A,TCGA-A2-A4S0,383b947b-6824-4c75-b4f3-ccfa933d3d33,857c31be-44ec-42bc-ba2c-5f17ac1d9a8c.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A2-A4S3-01A,TCGA-A2-A4S3,d14d5953-f379-4adb-9a1b-028f91b1a9e6,c63a27ff-1844-4b4f-9bc7-ac4d00dc0de8.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A7-A13E-01B,TCGA-A7-A13E,06952c59-978d-4ef4-b716-c55dd6747699,e843a939-f1a2-4e98-87b5-69abef893a51.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A7-A26F-01A,TCGA-A7-A26F,3c70b5af-2238-4fbe-991b-dc68975cc7f1,7050a8f4-f7f5-41ba-9bda-942d369cf317.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A7-A2KD-01A,TCGA-A7-A2KD,79d67844-5389-40ee-a1fd-5b19ecf81b73,d251e6b4-0c25-42ec-b090-daa81ee80a0e.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A7-A3IY-01A,TCGA-A7-A3IY,94db1456-e7f2-4f5f-92e3-b8faa801097d,d635a6e8-ecb3-4f9c-a56a-af1d0c714d7a.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A7-A426-01A,TCGA-A7-A426,b1d29048-b913-40d9-bb58-97c107b95e8d,3719879b-e7b9-42b4-974c-f69735086cad.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A7-A4SB-01A,TCGA-A7-A4SB,2700aca8-b120-4655-87ab-a9f8f7f633db,8c92ecf0-5d81-48c3-ad9f-9adf51860962.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A7-A4SC-01A,TCGA-A7-A4SC,a217c1ab-e2cb-487c-982a-8241da38272f,e4443a5a-144f-434e-b1e0-3139e1e5ed23.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A7-A5ZX-01A,TCGA-A7-A5ZX,934aa789-6d42-4b2d-8a74-7d482d79ed8b,0c80ffec-6290-4b81-9dba-cb64d142b8a8.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-A8-A09V-01A,TCGA-A8-A09V,1300bf72-ead0-4c03-b140-fca26302b43c,2f21d781-2df5-4de1-a595-a61507cfe610.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AC-A2FF-01A,TCGA-AC-A2FF,05aa6d12-6d48-4ecb-8211-036e647ef72e,08429604-2dc7-4827-8ba5-80818aa45a51.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AC-A2FO-01A,TCGA-AC-A2FO,586d9c21-e58a-4171-9755-30c0e8b16293,3ffa2cdf-4a54-4362-a6cf-b0567ef69551.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AC-A2QI-01A,TCGA-AC-A2QI,d2e2915c-125e-45c6-b7f3-6a815b3d2859,96a45a70-d4b5-4090-b603-73b7379679d6.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AC-A3W5-01A,TCGA-AC-A3W5,5e863e9f-1449-4a38-ac00-cfd7c21ba6e2,fe379cd5-d51b-44b3-9adf-49e2cc3b0bf5.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AC-A3W6-01A,TCGA-AC-A3W6,99ce2ebd-7a50-4808-ba75-8626ad6d7cfd,8229679f-179d-42b8-a9e7-7d733fe9969e.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AC-A3W7-01A,TCGA-AC-A3W7,be10214b-9a03-4556-b28b-5775028c782b,825c4fa0-4d98-402e-9c1b-9ee0a1a6ce15.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AC-A62X-01A,TCGA-AC-A62X,00469928-b243-4cae-acd7-134508e99ceb,2f51534b-248b-4999-bc3f-e42a2e98332e.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AN-A0AT-01A,TCGA-AN-A0AT,4dd3d7e2-8a60-41e8-8812-a06f413afe2b,49ec7f30-d687-4124-a3aa-17bffb48ce26.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AN-A0FN-01A,TCGA-AN-A0FN,0022cd20-f64f-4773-b9ff-a3de0b71b259,8d1641ea-7552-4d23-9298-094e0056386a.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AN-A0FT-01A,TCGA-AN-A0FT,2ff175d2-100f-4ce8-8d1e-b3b95b41ae56,7d746ed3-9bfa-4f66-9c5a-594284ecd811.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AN-A0XL-01A,TCGA-AN-A0XL,10d1a1f0-c89b-4b1e-93fa-7c6fd7f5bb8f,05b55f88-290a-4abd-bbc3-44561ba1f8b7.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AN-A0XT-01A,TCGA-AN-A0XT,40ad8a2a-abd2-4701-b984-4afa4c27c260,9d2a209e-f610-4bde-8265-ef7e7e7ac0c4.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AN-A0XV-01A,TCGA-AN-A0XV,debafec8-b9f4-45f3-aa4c-8e48e58e6a49,4fb42c7e-2a7e-4641-ae7c-e92fd9c2be11.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AO-A03L-01A,TCGA-AO-A03L,79f97f73-b650-49cf-8654-53038a6c0de7,be880db8-920f-4bd8-9f67-34e3ddd61f2c.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AO-A0J3-01A,TCGA-AO-A0J3,5d720a05-3673-45be-9163-08e0fc332f80,853013f2-fee7-4489-a2a2-fa36112a1c73.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AO-A0J4-01A,TCGA-AO-A0J4,7fa9ad2e-67a7-449f-be73-9e18dc46b529,5d5bb9d2-2244-4673-99db-653609cf5de2.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AO-A0J5-01A,TCGA-AO-A0J5,b54476c3-f6f1-4474-b447-72023ba97687,65c868ba-94ed-43f2-bfd1-814979ee9486.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AO-A0JC-01A,TCGA-AO-A0JC,9da9a119-9f9a-4ddb-947e-97724b9fe45f,7733c059-09bd-40b4-9812-4bedd68d9d01.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AO-A124-01A,TCGA-AO-A124,a63cca36-139d-4054-9d99-9b04ddae7ec2,3d05d072-d042-4c02-aaf6-ee2e589003d6.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AO-A125-01A,TCGA-AO-A125,3e0cc1e4-0882-4e9b-9373-34bcbce097d7,d9a1fa44-0877-423f-9beb-55f3fc936f7b.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AO-A128-01A,TCGA-AO-A128,e173c170-b7c6-4aa9-9f34-33cd02702d75,8d3d544f-6d1a-4cdc-8091-490311487ebd.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AO-A12G-01A,TCGA-AO-A12G,bf26a3fb-39a8-4eff-b801-a7dd915e73f5,01ae5613-1c58-4d02-8fd3-47d35d71c22d.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AQ-A04L-01B,TCGA-AQ-A04L,0427af63-b665-4c57-874b-65222c200bfe,99296d22-e605-49cd-b37f-a1b900be5d53.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AR-A0U0-01A,TCGA-AR-A0U0,4bb6eb79-4256-4b19-b158-883da969a582,90950125-1b6b-499d-97e2-5d6b78b3e6fe.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AR-A1AK-01A,TCGA-AR-A1AK,5405b59e-44cc-4745-b838-ca279210cbed,1d6fed92-2d3c-46b6-8760-31bc1254cf65.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AR-A1AY-01A,TCGA-AR-A1AY,58764dda-7c61-4705-a834-4d654c60ef2b,4d4d40f2-1f96-4d31-81aa-d44b17a217ed.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AR-A24P-01A,TCGA-AR-A24P,12959673-a8ec-4223-a5fe-0648276db5fc,ba2e1bd2-56f5-4dfb-94b5-92c50c58b31e.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AR-A24Z-01A,TCGA-AR-A24Z,4b558a24-b10c-4d59-a921-10e6a3a9fb35,3621ce2e-a1eb-4a45-ac06-779a780b0b99.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AR-A252-01A,TCGA-AR-A252,fed5e108-cb1a-45b8-88e8-c5ea6a6bd61a,967f7008-e212-4114-ab43-dc2a6295f80c.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AR-A254-01A,TCGA-AR-A254,bdee019c-38ae-4686-84fe-2454ba4c70dc,504f8320-62f8-4205-926a-a54d042d0e98.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AR-A2LN-01A,TCGA-AR-A2LN,587b3262-55f8-4611-8431-0c02a5df652d,5042d093-d8af-492a-8c40-5aaea17d66e6.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-AR-A2LR-01A,TCGA-AR-A2LR,7acdca8d-6231-4077-b7ac-eec857c43092,17efe3f1-a97a-4e26-b28a-98702fd3c42b.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-B6-A0I1-01A,TCGA-B6-A0I1,1852f5d0-ce76-4f0d-87a7-0383f338c96b,de57eef8-932d-4e4f-a67d-835a87d72116.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-B6-A0I2-01A,TCGA-B6-A0I2,ccd3b6f5-b425-47fb-b48e-0e24a4d6a4b2,daff3e2d-69ea-4c1d-bbad-8f6cca9bdc1f.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-B6-A0I6-01A,TCGA-B6-A0I6,1051db4c-40a5-4a98-a239-d96c986aa349,691c297b-b48d-4e65-84d4-cb4fcdf03fc0.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-B6-A0I9-01A,TCGA-B6-A0I9,0710056c-2f04-4182-90ca-45492dd6444c,9d0f51bf-a66d-4ea1-8599-2aee772c165b.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-B6-A0IB-01A,TCGA-B6-A0IB,a127fb1e-aa3b-4b6d-98b5-c141ffba9ae7,e590db5d-2577-43ec-9d39-45a257be5562.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-B6-A0IG-01A,TCGA-B6-A0IG,f36e613e-af30-4b1c-aaf3-89540e05ddb1,281a89c1-e817-49d4-afa1-2894c2747919.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-B6-A0RI-01A,TCGA-B6-A0RI,1c3a771f-43db-4b45-93f8-f8e6d2ab6847,420197bd-db07-4df9-8f72-3d7d509ae1d0.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-B6-A0WV-01A,TCGA-B6-A0WV,cd47d9e9-8072-4681-93ac-6c1420f6624c,754df69c-2fab-4037-8673-fd3be673fc09.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-B6-A408-01A,TCGA-B6-A408,02a11397-2a9b-4dba-8c6a-6b9f0aa24372,9ccd787f-fde1-4fe6-a11f-d6203eaf9faf.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-B6-A40C-01A,TCGA-B6-A40C,641c4e5d-4880-4f5e-9d1e-702cab91a6b4,32c15b29-da14-4eb5-8c86-39efc94319df.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A0BZ-01A,TCGA-BH-A0BZ,3d075fc4-5a01-47ce-bef0-a77acf71061d,707fad7d-f284-456a-abfa-17289b40579f.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A0DG-01A,TCGA-BH-A0DG,39b28d5e-fc51-4dfc-bcbe-0285c3bad830,3129e1d1-9844-4df4-b30e-29b1c438983b.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A0DI-01A,TCGA-BH-A0DI,0e56b380-a3d6-4e81-8299-9f8a62330d7b,f13d5df0-7293-4453-942f-2b49a3d33057.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A0DO-01B,TCGA-BH-A0DO,69bb06b6-74b3-441b-82d7-c6783aa88cdd,b44d9209-0e37-4ffe-9c27-a969a421b3ab.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A0E0-01A,TCGA-BH-A0E0,7882ff91-e415-48ae-9151-26b55f1cfc57,2b5864c9-7577-4e93-8d22-1f45a98267f1.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A0H9-01A,TCGA-BH-A0H9,ad4b2d76-b4bb-457d-903f-823630a4d37b,0940092b-46da-4975-bde7-f205fe12707b.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A0HL-01A,TCGA-BH-A0HL,12c6b269-434e-4a18-aa93-844bc9c5eb4d,947967e5-9255-49e1-886b-3dd81909a9da.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A0W3-01A,TCGA-BH-A0W3,f8e5691a-e24d-4dba-873e-9ffa3ca12bb6,80de2366-cd3c-4b51-9957-06ac3e152cf0.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A18T-01A,TCGA-BH-A18T,08837ae7-6f4f-4aa1-8722-7c404b66ed75,828c9648-f725-4d7e-ad37-e33692e2c67f.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A1ES-01A,TCGA-BH-A1ES,70c9af7f-8a58-434f-8f45-098ef0450319,e3c0a094-5504-4b74-9e0d-c73e84dc3901.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A1EV-01A,TCGA-BH-A1EV,0a7421d4-5722-427a-9643-da1074e5c25c,83f93d3f-d038-4773-a671-0f218f53821c.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A1EW-01A,TCGA-BH-A1EW,f8b403a1-37cf-4acb-b5d7-b3437fafa7f8,5e4626c1-dcf9-4781-a2e7-f6afca7e2ee7.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A201-01A,TCGA-BH-A201,9415696a-44d9-477f-aba3-0a30ded48778,3c3c4741-8eda-46fe-8d36-2cd683f4a987.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A2L8-01A,TCGA-BH-A2L8,7e0c78b6-4020-47b6-a8bf-46cf290c5c85,ce9d6d3a-9ab8-4586-a587-3d4bf00445a5.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A42T-01A,TCGA-BH-A42T,2455f280-a23c-48ec-b4c1-698b56f72a45,5383a729-554e-4d3e-ba62-449f45b7567d.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-BH-A42V-01A,TCGA-BH-A42V,c4a9a1df-4397-409e-85ec-30e0789377c2,18e5bf73-efdd-4c75-957c-68a94f6cb396.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-C8-A274-01A,TCGA-C8-A274,885098b3-2e01-4039-ad15-f3dda5c29dc6,784a9c63-9b40-4f6c-8147-93d0ed523867.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-D8-A1X6-01A,TCGA-D8-A1X6,ece7c643-e0b9-4b65-b6f5-89c414c1bfea,7e6ed4fc-b4bf-46c7-9f31-24a0c32c039e.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-D8-A1XA-01A,TCGA-D8-A1XA,26415014-f0fe-4b7c-b9dc-2a6f85d47a5e,231b4ae3-8543-47f4-a9f6-0ac26210b26d.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-D8-A1XJ-01A,TCGA-D8-A1XJ,97387357-c741-43a6-9b3a-55c925f9a516,6e79eeb3-9eae-45f4-92a5-fba71c154c1a.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-D8-A1XS-01A,TCGA-D8-A1XS,7dace9fc-28bd-44fb-9e97-6319eb30bb05,0c13d041-ca8d-48cc-ba02-3b7889e5367c.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-D8-A1XV-01A,TCGA-D8-A1XV,0877bc64-fbf4-427f-a889-21a4a9102600,13cc2a80-d6fe-49ff-9868-c9eac6df3c5e.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-D8-A1XW-01A,TCGA-D8-A1XW,e7789185-2581-4846-bafd-8b920edc0973,a29c8616-0f82-4515-870e-68887a628c92.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-D8-A1XZ-01A,TCGA-D8-A1XZ,621b0997-70e5-415b-8d8c-1e5f90d0d4aa,0a430a9a-7e63-41d6-8cd0-1dda1e1df975.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-D8-A27I-01A,TCGA-D8-A27I,0c0ddcd7-8b4c-4489-b642-e48c4ab4602a,d1ad6c3b-4e2a-40cd-b3e6-098b845d59cb.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-D8-A3Z5-01A,TCGA-D8-A3Z5,19318058-604e-4c3b-a037-eab07708ff82,ede34eaa-699a-496a-a3d3-8ef57ddbdb43.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-D8-A3Z6-01A,TCGA-D8-A3Z6,0682b5b9-8529-4152-b6f9-1a13180eedee,d5066dc8-74bb-415a-84aa-9f74b61faa20.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A14N-01A,TCGA-E2-A14N,0648c6fc-df6d-450a-a5a0-e5655febbdf1,f532a6be-de3e-420c-960a-23627589e7ad.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A14W-01A,TCGA-E2-A14W,04024f75-7405-4ccc-8976-91d0a3035b3a,e6f4bdc7-ab3f-4a62-aa6d-5223b25bbc89.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A153-01A,TCGA-E2-A153,aa2ab118-b3cc-4452-a29c-104f80f16f8d,752ec80f-0c1d-4c66-9927-a32f2f9dfb2a.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A15E-01A,TCGA-E2-A15E,d8a94ea1-68a3-43be-8a30-d690541a23aa,acb1bf8e-f597-4f67-b19d-bb737109d9cd.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A15I-01A,TCGA-E2-A15I,cf53cdad-a323-475e-a84a-87b68d13e262,37d359b3-d8f5-44cf-8f30-57dfdbbab8c1.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A15J-01A,TCGA-E2-A15J,8437bf97-2354-40cf-8dc4-631c5d7ae63a,723ed50c-2c78-4a3a-9f6e-9f9e8e264f6b.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A1AZ-01A,TCGA-E2-A1AZ,ed797859-4d7e-40e6-bae3-54ef15ad0f0a,22190dbc-a176-4f26-96d8-c2d2667b64ae.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A1B0-01A,TCGA-E2-A1B0,0caa1750-ec80-484f-9097-1e90fbfa41c2,507de54a-b4a5-4778-99fc-2f4f45c6daa0.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A1B1-01A,TCGA-E2-A1B1,0e62a6d0-87a7-4efc-922f-753328694458,c5d4a1ed-8fd3-4435-96f5-ea5e56326f20.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A1LE-01A,TCGA-E2-A1LE,f3d5f550-311d-4c59-8576-81fde80db315,1990cbfd-497e-4fcb-ad10-251e410c0d29.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A1LG-01A,TCGA-E2-A1LG,1b8dddf2-89d9-43aa-84c7-1d18e8865106,02a50d1b-ff62-4936-a0ce-ac0e22a5b41c.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E2-A576-01A,TCGA-E2-A576,469c052c-d2c8-4626-af1c-7276653168fe,f738acc1-0445-49e0-a279-3469620c8d4a.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E9-A1R0-01A,TCGA-E9-A1R0,0b798fe4-1c51-4c36-afc8-5bee39fd6077,e3142cf7-334f-4f34-a5da-53ffa4e1ba33.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E9-A1R4-01A,TCGA-E9-A1R4,488399aa-ef3c-42d7-817f-9db11b9902dd,a8e0466b-d106-44b7-b846-c4fb666715f5.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E9-A1RH-01A,TCGA-E9-A1RH,0d140db1-dc0d-431d-b389-846d05bbb827,d0ee5ff7-a49a-4633-93a6-40c9e29fb0b7.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E9-A247-01A,TCGA-E9-A247,097a38f3-a6c5-4267-8648-cd04e2bd9984,265fc9bf-8f99-4422-b78d-78ecf09b0e53.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E9-A2JS-01A,TCGA-E9-A2JS,2ea0b718-c634-4692-9cf0-4f118adfafbd,39e27085-909a-436b-b8e9-624c16303208.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E9-A3QA-01A,TCGA-E9-A3QA,d67d6fbf-50fa-485e-8ac7-a3c7ac33b3b2,63eff205-4fd4-4148-a596-2f7c17da328f.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-E9-A3X8-01A,TCGA-E9-A3X8,9b2a1467-775c-48cf-9a3c-e259ccd344e4,08814ce5-fdf0-4f06-aabd-bf7b2738cf43.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-EW-A1IX-01A,TCGA-EW-A1IX,02a0b95f-ea0f-4c0d-ba2d-9724ed9ad712,5fd42405-ebfe-4210-bc2f-d8310e3e14ee.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-EW-A1PD-01A,TCGA-EW-A1PD,de5e449b-bc57-4836-89e4-73a3ba24abdf,748e4eaa-2b96-4dce-a903-c7df733d7f50.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-EW-A2FV-01A,TCGA-EW-A2FV,4d2cc90a-574f-4184-9a1c-86af222e9bb6,15933e60-dee1-493a-a4f9-d5791dd15325.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-EW-A3U0-01A,TCGA-EW-A3U0,03a1a105-4856-4e5c-b537-508bdbda50b5,02bbe1b1-44ff-426b-a40e-47a01bc4cf7d.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-GI-A2C9-01A,TCGA-GI-A2C9,3e0c80d6-5091-454c-ad27-eb513cf6f45d,b161c26d-64b1-4e03-94da-4f9b9de25e88.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-GM-A2DA-01A,TCGA-GM-A2DA,90452523-0f9a-4c14-9d5f-e44f7079fb18,38387a4f-c65d-4075-8133-fdf259e919ed.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-GM-A2DM-01A,TCGA-GM-A2DM,a39993c2-0b95-4df1-b501-b1a746633449,9b652843-9c30-4c21-8c39-ef9e21ec4ec6.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-LD-A7W5-01A,TCGA-LD-A7W5,7d1c40bf-6119-4f2b-bb33-3ba23546799f,b0a1f575-657f-4277-95dd-0e02e77279fe.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-LL-A441-01A,TCGA-LL-A441,0ba26ef1-7b7d-48c8-a593-75504769791c,65b4f81a-4439-4d82-ae25-68d63309b053.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-LL-A442-01A,TCGA-LL-A442,2291d3f5-8269-4f31-adad-4b873c7ac770,2f3e03a2-8764-4791-b53a-a599c6159e19.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-LL-A5YL-01A,TCGA-LL-A5YL,0e3cf07b-2cea-4ce7-a8f0-c8dc7d3db7a7,c469b31e-857a-4ac6-9a45-978c99391d9d.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-LL-A6FP-01A,TCGA-LL-A6FP,06227b3b-56d0-4657-bb37-8f56a3dc15f7,3574e83f-a983-425b-9082-63d5a32c01d6.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-LL-A8F5-01A,TCGA-LL-A8F5,1d8697f1-4e89-4987-b26b-a29d791f19ca,7d2b6ff4-8f35-41cf-b078-3e78d0b81800.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-OL-A5RZ-01A,TCGA-OL-A5RZ,0fc096b2-7fb5-4dc6-ae94-aa7dae6f885f,33527fe8-7215-45bd-8520-b290995b839d.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable
+TCGA-OL-A66N-01A,TCGA-OL-A66N,ccd1dcec-f3c1-42ca-b3e8-a73a7d2237ff,032e5aa7-8028-48ad-8fe4-6a5cc6aee5cb.rna_seq.augmented_star_gene_counts.tsv,Tumor,Primary,Solid Tissue,1,usable

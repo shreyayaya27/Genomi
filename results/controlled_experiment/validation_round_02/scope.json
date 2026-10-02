@@ -1,0 +1,27 @@
+{
+  "test_evaluated": false,
+  "train_balanced": 158,
+  "validation_samples": 35,
+  "grid": [
+    {
+      "name": "zero_to_pi_cobyla_ansatz1",
+      "optimizer": "COBYLA",
+      "ansatz_reps": 1
+    },
+    {
+      "name": "zero_to_pi_cobyla_ansatz2",
+      "optimizer": "COBYLA",
+      "ansatz_reps": 2
+    },
+    {
+      "name": "zero_to_pi_spsa_ansatz1",
+      "optimizer": "SPSA",
+      "ansatz_reps": 1
+    },
+    {
+      "name": "zero_to_pi_spsa_ansatz2",
+      "optimizer": "SPSA",
+      "ansatz_reps": 2
+    }
+  ]
+}

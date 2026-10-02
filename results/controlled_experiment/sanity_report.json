@@ -1,0 +1,118 @@
+{
+  "dataset": "results\\balanced_120_tumor\\brca_9gene_expression.csv",
+  "biomarkers": [
+    "NEK2",
+    "PKMYT1",
+    "MMP11",
+    "CPA1",
+    "COL10A1",
+    "HSD17B13",
+    "CA4",
+    "MYOC",
+    "LYVE1"
+  ],
+  "split_summary": {
+    "train": {
+      "samples": 163,
+      "tumor": 84,
+      "normal": 79,
+      "unique_cases": 154
+    },
+    "validation": {
+      "samples": 35,
+      "tumor": 18,
+      "normal": 17,
+      "unique_cases": 33
+    },
+    "test": {
+      "samples": 35,
+      "tumor": 18,
+      "normal": 17,
+      "unique_cases": 33
+    }
+  },
+  "leakage_check": "PASS: no Case ID or Sample ID occurs in multiple splits; all samples assigned exactly once.",
+  "classical_array_shapes": {
+    "train": [
+      163,
+      9
+    ],
+    "validation": [
+      35,
+      9
+    ],
+    "test": [
+      35,
+      9
+    ]
+  },
+  "quantum_array_shapes": {
+    "train": [
+      163,
+      9
+    ],
+    "validation": [
+      35,
+      9
+    ],
+    "test": [
+      35,
+      9
+    ]
+  },
+  "quantum_balanced_training_subset_size": 158,
+  "preprocessing": {
+    "classical": "log2(TPM + 1), then StandardScaler fit on training only",
+    "quantum": "log2(TPM + 1), then configurable MinMax angle scaling fit on training only: [0, pi] or [-pi, pi]"
+  },
+  "package_versions": {
+    "qiskit": "2.5.2",
+    "aer": "0.17.2",
+    "machine_learning": "0.9.1",
+    "algorithms": "0.4.0"
+  },
+  "small_validation_only_vqc_grid": [
+    {
+      "angle_range": "zero_to_pi",
+      "feature_map_reps": 1,
+      "ansatz_reps": 1,
+      "entanglement": "linear",
+      "optimizer": "COBYLA",
+      "maxiter": 100,
+      "shots": 1024,
+      "simulator_mode": "shot_aer"
+    },
+    {
+      "angle_range": "zero_to_pi",
+      "feature_map_reps": 1,
+      "ansatz_reps": 1,
+      "entanglement": "linear",
+      "optimizer": "SPSA",
+      "maxiter": 100,
+      "shots": 1024,
+      "simulator_mode": "shot_aer"
+    },
+    {
+      "angle_range": "minus_pi_to_pi",
+      "feature_map_reps": 1,
+      "ansatz_reps": 1,
+      "entanglement": "linear",
+      "optimizer": "COBYLA",
+      "maxiter": 100,
+      "shots": 1024,
+      "simulator_mode": "shot_aer"
+    },
+    {
+      "angle_range": "minus_pi_to_pi",
+      "feature_map_reps": 1,
+      "ansatz_reps": 1,
+      "entanglement": "linear",
+      "optimizer": "SPSA",
+      "maxiter": 100,
+      "shots": 1024,
+      "simulator_mode": "shot_aer"
+    }
+  ],
+  "proposed_vqc_training_runs": 4,
+  "test_policy": "Untouched. --evaluate-test must be used only after an explicit final configuration lock."
+}

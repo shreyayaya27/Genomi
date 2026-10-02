@@ -1,0 +1,7 @@
+Expression example: C:\Users\shreya\Desktop\Gene dataset\Genomi\data\gdc_download_20260929_072800.811874\0019c951-16c5-48d0-85c8-58d96b12d330\ba295155-272e-43eb-9d6a-e4c9c392e68b.rna_seq.augmented_star_gene_counts.tsv
+Metadata row: # gene-model: GENCODE v36
+Columns: gene_id, gene_name, gene_type, unstranded, stranded_first, stranded_second, tpm_unstranded, fpkm_unstranded, fpkm_uq_unstranded
+Biological gene rows: 60660; summary rows excluded: 4
+Duplicate gene-symbol groups: 110
+Sample Sheet: C:\Users\shreya\Desktop\Gene dataset\Genomi\data\gdc_sample_sheet.2026-09-29.tsv (835 rows)
+Manifest: C:\Users\shreya\Desktop\Gene dataset\Genomi\data\gdc_manifest.2026-09-29.134924.txt (835 rows)

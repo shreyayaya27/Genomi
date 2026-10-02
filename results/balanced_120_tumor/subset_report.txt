@@ -1,0 +1,7 @@
+TEMPORARY BALANCED WORKING SUBSET
+Seed: 42
+Tumor: 120 (one per Case ID)
+Normal: 113 (all available local Normal samples)
+Total: 233
+Source GDC files and full derived data were not modified or deleted.
+Tumor cases were selected randomly with a fixed seed; selection is for model-training/evaluation experiments only.

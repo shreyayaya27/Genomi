@@ -1,0 +1,17 @@
+{
+  "family": "quantum",
+  "configuration": "vqc_02_zero_to_pi_spsa",
+  "status": "failed",
+  "angle_range": "zero_to_pi",
+  "feature_map_reps": 1,
+  "ansatz_reps": 1,
+  "entanglement": "linear",
+  "optimizer": "SPSA",
+  "maxiter": 100,
+  "shots": 1024,
+  "simulator_mode": "shot_aer",
+  "random_seed": 42,
+  "num_qubits": 9,
+  "error_type": "TypeError",
+  "error": "run_vqc.<locals>.callback() takes 2 positional arguments but 5 were given"
+}

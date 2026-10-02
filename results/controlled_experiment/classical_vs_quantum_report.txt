@@ -1,0 +1,23 @@
+Qura-Q: Classical ML vs Quantum ML — validation-only comparison
+
+Scope: same 233-sample dataset, fixed persisted case-level split, and nine published BrcaDx genes.
+The held-out test split was not loaded as features, scored, or used for any configuration choice.
+
+SIDE-BY-SIDE COMPARISON (validation: 18 Tumor, 17 Normal)
+Model | Training set | Status | Accuracy | Balanced Acc. | F1 | MCC | ROC-AUC | TN FP FN TP | Time (s)
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+dummy_majority | full_training_163 | success | 0.514 | 0.500 | 0.679 | 0.000 | 0.500 | 0 17 0 18 | 0.01
+logistic_regression_full | full_training_163 | success | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 17 0 0 18 | 0.01
+rbf_svm_full | full_training_163 | success | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 17 0 0 18 | 0.02
+xgboost_full | full_training_163 | success | 0.971 | 0.971 | 0.973 | 0.944 | 1.000 | 16 1 0 18 | 0.23
+logistic_regression_matched_vqc | balanced_158_vqc_matched | success | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 17 0 0 18 | 0.01
+rbf_svm_matched_vqc | balanced_158_vqc_matched | success | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 17 0 0 18 | 0.01
+zero_to_pi_spsa_ansatz2 | balanced_158_vqc_matched | success | 0.771 | 0.775 | 0.750 | 0.560 | 0.768 | 15 2 6 12 | 322.66
+
+FACTUAL SUMMARY
+Highest validation accuracy: logistic_regression_full (1.000).
+Highest balanced accuracy: logistic_regression_full (1.000).
+Selected validation-locked VQC: zero_to_pi_spsa_ansatz2.
+VQC: 9 qubits; ZZFeatureMap reps=1; RealAmplitudes reps=2; linear entanglement; SPSA maxiter=200; Aer shot simulator with 1024 shots; circuit depth=33.
+The successful VQC is not competitive with the classical models on this validation split. This is a factual validation comparison, not evidence for or against quantum advantage.
+Two SPSA runs are retained as failed records due to the installed optimizer callback API mismatch; they were not replaced or rerun.

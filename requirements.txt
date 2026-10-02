@@ -1,0 +1,8 @@
+# Data-preparation scripts use only the standard library. Pilot baselines require:
+scikit-learn>=1.9
+xgboost>=3.4
+joblib>=1.6
+qiskit>=2.5
+qiskit-aer>=0.17
+qiskit-machine-learning>=0.9
+qiskit-algorithms>=0.4

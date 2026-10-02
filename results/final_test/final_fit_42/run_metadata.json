@@ -1,0 +1,15 @@
+{
+  "run_name": "final_fit_42",
+  "development_samples": 198,
+  "test_samples": 35,
+  "development_counts": {
+    "normal": 96,
+    "tumor": 102
+  },
+  "test_counts": {
+    "normal": 17,
+    "tumor": 18
+  },
+  "balanced_vqc_training_samples": 192,
+  "test_accessed_after_lock": true
+}

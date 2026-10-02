@@ -1,0 +1,9 @@
+METADATA BUILD REPORT
+Expression files discovered: 350
+Usable rows: 350
+Tumor: 237
+Normal: 113
+Missing tissue type: 0
+Otherwise unusable: 0
+Duplicate Sample IDs: 0
+Duplicate Case IDs: 27

@@ -1,0 +1,42 @@
+[
+  {
+    "angle_range": "zero_to_pi",
+    "feature_map_reps": 1,
+    "ansatz_reps": 1,
+    "entanglement": "linear",
+    "optimizer": "COBYLA",
+    "maxiter": 100,
+    "shots": 1024,
+    "simulator_mode": "shot_aer"
+  },
+  {
+    "angle_range": "zero_to_pi",
+    "feature_map_reps": 1,
+    "ansatz_reps": 1,
+    "entanglement": "linear",
+    "optimizer": "SPSA",
+    "maxiter": 100,
+    "shots": 1024,
+    "simulator_mode": "shot_aer"
+  },
+  {
+    "angle_range": "minus_pi_to_pi",
+    "feature_map_reps": 1,
+    "ansatz_reps": 1,
+    "entanglement": "linear",
+    "optimizer": "COBYLA",
+    "maxiter": 100,
+    "shots": 1024,
+    "simulator_mode": "shot_aer"
+  },
+  {
+    "angle_range": "minus_pi_to_pi",
+    "feature_map_reps": 1,
+    "ansatz_reps": 1,
+    "entanglement": "linear",
+    "optimizer": "SPSA",
+    "maxiter": 100,
+    "shots": 1024,
+    "simulator_mode": "shot_aer"
+  }
+]

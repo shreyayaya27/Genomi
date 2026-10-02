@@ -1,0 +1,7 @@
+{
+  "mode": "exact_statevector_preflight",
+  "trained": false,
+  "qubits": 9,
+  "circuit_depth": 33,
+  "statevector_norm": 0.9999999999999994
+}

@@ -1,0 +1,7 @@
+__pycache__/ 
+*.pyc 
+.venv/ 
+venv/ 
+.env 
+.ipynb_checkpoints/ 
+results/expression_matrix_tpm.csv 

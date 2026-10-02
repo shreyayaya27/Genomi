@@ -1,0 +1,7 @@
+{
+  "split_file": "results/fixed_split_assignments.csv",
+  "test_evaluated": false,
+  "train_samples": 163,
+  "validation_samples": 35,
+  "balanced_vqc_train_samples": 158
+}

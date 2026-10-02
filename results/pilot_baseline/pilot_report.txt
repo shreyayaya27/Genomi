@@ -1,0 +1,20 @@
+Qura-Q BrcaDx pilot classical baselines
+
+Scope: pipeline verification only; do not interpret these metrics as meaningful model performance.
+Samples: 125 (Tumor=70, Normal=55)
+Target: Normal=0, Tumor=1 (verified against metadata.csv)
+Features: NEK2, PKMYT1, MMP11, CPA1, COL10A1, HSD17B13, CA4, MYOC, LYVE1
+
+Preprocessing: raw TPM -> log2(TPM + 1) -> StandardScaler.
+The scaler is fit separately within each training fold. No feature selection, hyperparameter search, Qiskit, or VQC was used.
+Cross-validation: StratifiedKFold(n_splits=5, shuffle=True, random_state=42). Each test fold has 14 Tumor and 11 Normal samples.
+Limitation: this remains a small, non-independent pilot cohort; use results for workflow verification, not clinical or generalization claims.
+
+Out-of-fold metrics:
+logistic_regression: accuracy=0.992, balanced_accuracy=0.993, precision_tumor=1.000, recall_tumor=0.986, f1_tumor=0.993, roc_auc=1.000, TN=55, FP=0, FN=1, TP=69
+rbf_svm: accuracy=0.984, balanced_accuracy=0.984, precision_tumor=0.986, recall_tumor=0.986, f1_tumor=0.986, roc_auc=0.999, TN=54, FP=1, FN=1, TP=69
+xgboost: accuracy=0.960, balanced_accuracy=0.960, precision_tumor=0.971, recall_tumor=0.957, f1_tumor=0.964, roc_auc=0.991, TN=53, FP=2, FN=3, TP=67
+
+Quantum readiness: nine numerical features can technically encode a 9-qubit model (one feature per qubit), but that is not advisable for this 25-sample pilot.
+Exact next step for a 6-8 feature Qura-Q experiment: after expanding and locking a cohort, fit a feature-reduction method only on training folds, lock the selected 6-8 genes, then apply that fixed transformation to validation/test data.
+Do not select or reduce features on the current 25-sample dataset.

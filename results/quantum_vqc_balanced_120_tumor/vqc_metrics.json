@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.44206008583690987,
+  "balanced_accuracy": 0.44284660766961653,
+  "roc_auc": 0.47665929203539825,
+  "tn": 53,
+  "fp": 60,
+  "fn": 70,
+  "tp": 50,
+  "total_runtime_seconds": 37.324902400000155,
+  "mean_fold_train_seconds": 7.254579159999958,
+  "num_qubits": 9,
+  "circuit_depth": 30,
+  "feature_map_parameters": 9,
+  "ansatz_parameters": 18
+}

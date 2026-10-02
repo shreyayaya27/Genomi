@@ -1,0 +1,48 @@
+{
+  "lock_version": 1,
+  "selection_policy": "Highest validation balanced accuracy among the predeclared Round-2 VQC configurations; no test data accessed for selection.",
+  "configuration": {
+    "angle_range": "zero_to_pi",
+    "feature_map": "ZZFeatureMap",
+    "feature_map_reps": 1,
+    "ansatz": "RealAmplitudes",
+    "ansatz_reps": 2,
+    "entanglement": "linear",
+    "optimizer": "SPSA",
+    "maxiter": 200,
+    "shots": 1024,
+    "simulator": "shot_aer",
+    "seed": 42,
+    "qubits": 9
+  },
+  "validation_metrics": {
+    "accuracy": 0.7714285714285715,
+    "balanced_accuracy": 0.7745098039215685,
+    "f1": 0.75,
+    "mcc": 0.5601120336112039,
+    "roc_auc": 0.7679738562091504,
+    "pr_auc": 0.8127032125088245,
+    "tn": 15,
+    "fp": 2,
+    "fn": 6,
+    "tp": 12
+  },
+  "source_artifacts": {
+    "run_directory": "results\\controlled_experiment\\validation_round_02\\zero_to_pi_spsa_ansatz2",
+    "result": "results\\controlled_experiment\\validation_round_02\\zero_to_pi_spsa_ansatz2\\result.json",
+    "model": "results\\controlled_experiment\\validation_round_02\\zero_to_pi_spsa_ansatz2\\model.dill",
+    "preprocessor": "results\\controlled_experiment\\validation_round_02\\zero_to_pi_spsa_ansatz2\\preprocessor.joblib"
+  },
+  "genes": [
+    "NEK2",
+    "PKMYT1",
+    "MMP11",
+    "CPA1",
+    "COL10A1",
+    "HSD17B13",
+    "CA4",
+    "MYOC",
+    "LYVE1"
+  ],
+  "dataset_split_fingerprint": "d54fbbc51cf73ad12ec650a6e06a9e848d018f411e64ba420df15a40e3514aad"
+}

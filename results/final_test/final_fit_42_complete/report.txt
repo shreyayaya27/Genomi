@@ -1,0 +1,17 @@
+Qura-Q final held-out test comparison
+
+Models were selected on validation and refit on train + validation. The test set was used once for this report.
+
+Model | Accuracy | Balanced Acc. | F1 | MCC | ROC-AUC | TN FP FN TP | Train seconds
+--- | --- | --- | --- | --- | --- | --- | ---
+dummy_majority | 0.514 | 0.500 | 0.679 | 0.000 | 0.500 | 0 17 0 18 | 0.01
+logistic_regression_full | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 17 0 0 18 | 0.01
+rbf_svm_full | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 17 0 0 18 | 0.01
+xgboost_full | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 17 0 0 18 | 0.19
+logistic_regression_matched_vqc | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 17 0 0 18 | 0.01
+rbf_svm_matched_vqc | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 17 0 0 18 | 0.01
+locked_best_vqc | 0.457 | 0.454 | 0.513 | -0.093 | 0.523 | 6 11 8 10 | 489.90
+
+Test samples: 35
+Biomarkers: NEK2, PKMYT1, MMP11, CPA1, COL10A1, HSD17B13, CA4, MYOC, LYVE1
+VQC uses 9 qubits; ZZFeatureMap reps=1; RealAmplitudes reps=2; linear entanglement; SPSA maxiter=200; Aer 1,024 shots.

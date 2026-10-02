@@ -1,0 +1,19 @@
+Qura-Q 9-qubit VQC pilot (local Aer simulator only)
+
+Scope: execution/pipeline verification only. These results are not meaningful estimates of clinical or generalization performance.
+Samples: 306 (Tumor=237, Normal=69); target Normal=0, Tumor=1.
+Features: NEK2, PKMYT1, MMP11, CPA1, COL10A1, HSD17B13, CA4, MYOC, LYVE1
+Preprocessing: raw TPM -> log2(TPM + 1) -> StandardScaler.
+StandardScaler was fit inside each training fold; no feature selection or dimensionality reduction was used.
+Cross-validation: StratifiedKFold(n_splits=5, shuffle=True, random_state=42); each test fold has 48 Tumor and 14 Normal samples.
+Quantum circuit: ZZFeatureMap(9 qubits, reps=1, linear entanglement) + RealAmplitudes(9 qubits, reps=1, linear entanglement).
+Aer SamplerV2: 256 shots; COBYLA maxiter=20; no real hardware.
+Circuit depth: 30; qubits: 9; feature-map parameters: 9; ansatz parameters: 18.
+
+Out-of-fold accuracy: 0.438
+Out-of-fold balanced accuracy: 0.468
+Out-of-fold ROC-AUC: 0.485 (defined because both classes appear across out-of-fold predictions)
+Confusion matrix: TN=36, FP=33, FN=139, TP=98
+Total CV runtime: 45.54 seconds; mean fold training runtime: 8.86 seconds.
+
+Limitation: this is still a small, non-independent pilot with a fixed optimizer budget; metrics must not be presented as clinical or generalization performance claims.

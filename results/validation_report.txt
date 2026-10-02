@@ -1,0 +1,14 @@
+VALIDATION REPORT
+Samples in metadata: 350
+Samples in expression matrix: 350
+Tumor samples: 237
+Normal samples: 113
+Genes: 60660
+Missing matrix values: 0
+Infinite/non-numeric matrix values: 0
+Duplicate sample IDs: 0
+Duplicate case IDs: 27
+Duplicate gene names: retained safely as distinct Ensembl-ID columns; see inspect output.
+Expression files without metadata: 0
+Metadata rows without expression files: 0
+Matrix samples absent from metadata: 0

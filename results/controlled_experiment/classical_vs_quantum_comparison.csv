@@ -1,0 +1,8 @@
+model_type,model_name,status,training_set,accuracy,balanced_accuracy,precision,recall,specificity,f1,mcc,roc_auc,pr_auc,tn,fp,fn,tp,training_seconds,qubits,feature_map,feature_map_reps,ansatz,ansatz_reps,entanglement,optimizer,optimizer_evaluations,shots,simulator,circuit_depth,final_objective,error
+classical,dummy_majority,success,full_training_163,0.5142857142857142,0.5,0.5142857142857142,1.0,0.0,0.6792452830188679,0.0,0.5,0.5142857142857142,0,17,0,18,0.007599900000059279,,,,,,,,,,,,,
+classical,logistic_regression_full,success,full_training_163,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,17,0,0,18,0.010253100000227278,,,,,,,,,,,,,
+classical,rbf_svm_full,success,full_training_163,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,17,0,0,18,0.021170299999994313,,,,,,,,,,,,,
+classical,xgboost_full,success,full_training_163,0.9714285714285714,0.9705882352941176,0.9473684210526315,1.0,0.9411764705882353,0.972972972972973,0.9442673704375605,1.0,1.0,16,1,0,18,0.2270400000002155,,,,,,,,,,,,,
+classical,logistic_regression_matched_vqc,success,balanced_158_vqc_matched,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,17,0,0,18,0.0076872999998158775,,,,,,,,,,,,,
+classical,rbf_svm_matched_vqc,success,balanced_158_vqc_matched,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,17,0,0,18,0.006539299999985815,,,,,,,,,,,,,
+quantum,zero_to_pi_spsa_ansatz2,success,balanced_158_vqc_matched,0.7714285714285715,0.7745098039215685,0.8571428571428571,0.6666666666666666,0.8823529411764706,0.75,0.5601120336112039,0.7679738562091504,0.8127032125088245,15,2,6,12,322.66086880000057,,ZZFeatureMap,1,RealAmplitudes,2,linear,SPSA,400,1024,shot_aer,33,,

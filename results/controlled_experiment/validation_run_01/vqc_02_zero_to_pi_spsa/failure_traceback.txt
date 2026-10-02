@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "C:\Users\shreya\Desktop\Gene dataset\Genomi\src\run_controlled_validation_experiment.py", line 103, in run_vqc
+    start = time.perf_counter(); model.fit(train_angles, y_train); training_seconds = time.perf_counter() - start
+                                 ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shreya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\qiskit_machine_learning\algorithms\trainable_model.py", line 204, in fit
+    self._fit_result = self._fit_internal(X, y)
+                       ~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\shreya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\qiskit_machine_learning\algorithms\classifiers\vqc.py", line 195, in _fit_internal
+    return self._minimize(function)
+           ~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\shreya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\qiskit_machine_learning\algorithms\trainable_model.py", line 301, in _minimize
+    optimizer_result = self._optimizer.minimize(
+        fun=objective,
+        x0=initial_point,
+        jac=function.gradient,  # type: ignore[arg-type]
+    )
+  File "C:\Users\shreya\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\qiskit_algorithms\optimizers\spsa.py", line 609, in minimize
+    self.callback(
+    ~~~~~~~~~~~~~^
+        self._nfev,  # number of function evals
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        True,
+        ^^^^^
+    )  # accepted
+    ^
+TypeError: run_vqc.<locals>.callback() takes 2 positional arguments but 5 were given

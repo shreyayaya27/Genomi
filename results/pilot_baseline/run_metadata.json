@@ -1,0 +1,6 @@
+{
+  "random_seed": 42,
+  "n_splits": 5,
+  "sklearn": "1.9.1",
+  "xgboost": "3.4.1"
+}
